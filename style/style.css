@@ -1,0 +1,43 @@
+.first-screen{
+position: absolute;
+width: 1920px;
+height: 800px;
+left: 0px;
+top: 0px;
+}
+
+.first-screen-content{
+position: absolute;
+width: 635px;
+height: 317px;
+left: 595px;
+top: 282px;
+}
+
+.h1{
+    position: absolute;
+width: 635px;
+height: 142px;
+left: 595px;
+top: 282px;
+
+font-family: Oswald;
+font-style: normal;
+font-weight: normal;
+font-size: 48px;
+line-height: 71px;
+letter-spacing: 0.01em;
+
+color: blue;
+}
+
+.top-menu{
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+
+background: rgba(0, 91, 193, 0.6);
+}
+
