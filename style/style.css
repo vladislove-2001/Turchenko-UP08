@@ -53,7 +53,7 @@ background: rgba(0, 91, 193, 0.6); */
     left: 405px;
     top: 80px;
 
-background: rgba(0, 91, 193, 0.6);
+    background: rgba(0, 91, 193, 0.6);
 }
 
 ul {
@@ -76,28 +76,16 @@ ul {
     right: 90.62%;
     top: 13.75%;
     bottom: 13.75%;
-
-    color: #FFFFFF;
+    background: url(../img/logo.png);
 }
 
 .button{
     position: absolute;
-width: 79px;
-height: 22px;
-left: 636px;
-top: 563px;
+    width: 160px;
+    height: 51px;
+    left: 595px;
+    top: 548px;
 
-font-family: Open Sans;
-font-style: normal;
-font-weight: 600;
-font-size: 16px;
-line-height: 22px;
-/* identical to box height */
-
-text-align: center;
-letter-spacing: 0.05em;
-
-color: #FFFFFF;
 }
 
 .slider{
@@ -133,6 +121,8 @@ color: #FFFFFF;
     height: 400px;
     left: 405px;
     top: 1070px;
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(.jpg), #C4C4C4;
+
     background: url(../img/slide1.png);
 }
 
