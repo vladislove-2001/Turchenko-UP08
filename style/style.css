@@ -1,3 +1,17 @@
+@font-face{
+    font-family: "Oswald-Regular";
+    src:url(../fonts/Oswald-Regular.ttf) format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face{
+    font-family: "OpenSans-Regular";
+    src:url(../fonts/OpenSans-Regular.ttf) format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
 *{
     box-sizing:border-box
 }
@@ -230,7 +244,7 @@ img{
     margin-top: 0px;
     margin-left: 30vw;
     padding-top: 36vh;
-    font-family: Oswald, sans-serif;
+    font-family: "Oswald-Regular", sans-serif;
     color: #fff;
     font-size: 48px;
     line-height: 1em;
@@ -302,7 +316,7 @@ img{
   
 .text-block-3 {
     margin-left: 40px;
-    font-family: Oswald, sans-serif;
+    font-family: "Oswald-Regular", sans-serif;
     font-size: 30px;
     line-height: 1em;
     text-transform: uppercase;
@@ -351,7 +365,7 @@ img{
 .text-block-4 {
     padding-top: 20px;
     padding-left: 25px;
-    font-family: Oswald, sans-serif;
+    font-family: "Oswald-Regular", sans-serif;
     font-size: 18px;
     line-height: 1.2em;
 }
@@ -379,13 +393,13 @@ img{
   
 .text-block-6 {
     margin-left: 5vw;
-    font-family: Oswald, sans-serif;
+    font-family: "Oswald-Regular", sans-serif;
     font-size: 24px;
     line-height: 1.2em;
 }
   
 .text-block-7 {
-    font-family: Oswald, sans-serif;
+    font-family: "Oswald-Regular", sans-serif;
     color: #005bc1;
     font-size: 24px;
     line-height: 1.2em;
@@ -394,7 +408,7 @@ img{
   
 .text-block-9 {
     margin-left: 40px;
-    font-family: Oswald, sans-serif;
+    font-family: "Oswald-Regular", sans-serif;
     font-size: 30px;
     line-height: 1.2em;
     text-transform: uppercase;
@@ -461,7 +475,7 @@ img{
     width: 441px;
     margin-top: 42px;
     margin-left: 30px;
-    font-family: Oswald, sans-serif;
+    font-family: "Oswald-Regular", sans-serif;
     font-size: 18px;
     text-transform: uppercase;
 }
@@ -504,7 +518,7 @@ img{
 .text-block-12 {
     margin-top: 45px;
     margin-left: 315px;
-    font-family: Oswald, sans-serif;
+    font-family: "Oswald-Regular", sans-serif;
     font-size: 16px;
     letter-spacing: 5%;
 }
@@ -569,7 +583,7 @@ img{
   
 .text-block-14 {
     position: static;
-    font-family: Oswald, sans-serif;
+    font-family: "Oswald-Regular", sans-serif;
     font-size: 18px;
     letter-spacing: 5%;
     text-transform: uppercase;
@@ -597,7 +611,7 @@ img{
 }
   
   .text-block-18 {
-    font-family: Oswald, sans-serif;
+    font-family: "Oswald-Regular", sans-serif;
     font-size: 18px;
     line-height: 1.2em;
     letter-spacing: 5%;
@@ -643,7 +657,7 @@ img{
   }
   
   .text-block-21 {
-    font-family: Oswald, sans-serif;
+    font-family:"Oswald-Regular", sans-serif;
     color: #fff;
     font-size: 18px;
     letter-spacing: 5%;
